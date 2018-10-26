@@ -1,5 +1,7 @@
 ---
 title: Introducion
+seoTitle: title
+seoDescription: description
 isFree: true
 ---
 
