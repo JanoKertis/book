@@ -2,7 +2,7 @@
 title: Introducion
 seoTitle: title
 seoDescription: description
-isFree: true
+excerpt: ""
 ---
 
 Hello world!
